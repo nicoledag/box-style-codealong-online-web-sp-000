@@ -241,3 +241,7 @@ section {
 }
 
 /*////////// FOOTER //////////*/
+
+#details {
+  border-top: 1px solid white;
+}
