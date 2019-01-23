@@ -159,6 +159,16 @@ header {
   text-align: center;
 }
 
+#navbar nav {
+  border-left: 1px solid #ccc;
+}
+
+#navbar nav a {
+  display: inline-block;
+  width: 16.666667%;
+}
+
+
 .navbar-hoover {
   background: rgb(0, 0, 0); /* Old browsers */
   background: -moz-linear-gradient(top,rgba(0, 0, 0, 1) 0%,rgba(71, 71, 71, 1) 28%,rgba(81, 81, 81, 1) 35%,rgba(71, 71, 71, 1) 72%,rgba(43, 43, 43, 1) 87%,rgba(28, 28, 28, 1) 91%,rgba(0, 0, 0, 1) 100%); /* FF3.6+ */
