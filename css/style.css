@@ -149,6 +149,15 @@ header {
 
 /*////////// NAVBAR //////////*/
 
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  border-bottom: 1px solid #ccc;
+}
+
 .navbar-hoover {
   background: rgb(0, 0, 0); /* Old browsers */
   background: -moz-linear-gradient(top,rgba(0, 0, 0, 1) 0%,rgba(71, 71, 71, 1) 28%,rgba(81, 81, 81, 1) 35%,rgba(71, 71, 71, 1) 72%,rgba(43, 43, 43, 1) 87%,rgba(28, 28, 28, 1) 91%,rgba(0, 0, 0, 1) 100%); /* FF3.6+ */
