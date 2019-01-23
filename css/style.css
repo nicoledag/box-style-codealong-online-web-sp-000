@@ -181,6 +181,9 @@ header {
   color: white;
 }
 
+#navbar nav a:hover {
+  color: white;
+}
 
 .navbar-hoover {
   background: rgb(0, 0, 0); /* Old browsers */
